@@ -1,0 +1,78 @@
+<DKXROOT>
+    <FileItem SubFileRelativePath="/" FilePath="/mnt/us/DK_Documents/最新论文/iccv2013/Calibration/Unsupervised intrinsic calibration from a single frame using a ”plumb-line”.pdf">
+        <Version>DKX-1.0</Version>
+        <BookInfo>
+            <BookName>Unsupervised intrinsic calibration from a single frame using a ”plumb-line”.pdf</BookName>
+            <BookAbstract></BookAbstract>
+            <BookAuthor></BookAuthor>
+            <BookSource></BookSource>
+            <FilePath></FilePath>
+            <FileFormat>2</FileFormat>
+            <CreateTime>2014-10-19 15:06:20</CreateTime>
+            <AddOrder>2078</AddOrder>
+            <LastReadTime>2014-10-19T18:12:37</LastReadTime>
+            <ReadingOrder>2091</ReadingOrder>
+            <FileSize>14248160</FileSize>
+            <Password></Password>
+            <BookTags />
+            <TxtTocs />
+            <TocExtracted>0</TocExtracted>
+            <BookRevision></BookRevision>
+            <ReadingDataSync>1</ReadingDataSync>
+            <Crash>0</Crash>
+            <BookID>gge9e775gc5707d45452be5876603657</BookID>
+        </BookInfo>
+        <ReadingData UserName="264291391">
+            <Modified>0</Modified>
+            <DataVersion>0</DataVersion>
+            <LastUpdateTime>0</LastUpdateTime>
+            <Progress>
+                <Type>PROGRESS</Type>
+                <KernelVersion>3.0.0.34310ef</KernelVersion>
+                <Color></Color>
+                <Tag></Tag>
+                <DataId>97B5097C0B87EDC6146ABE0B2AA57F8C</DataId>
+                <CreateTime>2014-10-19T18:12:37</CreateTime>
+                <LastModifyTime>2014-10-19T18:12:37</LastModifyTime>
+                <Creator></Creator>
+                <BookContent></BookContent>
+                <UserContent></UserContent>
+                <ChapterTitle></ChapterTitle>
+                <BeginPos>
+                    <ChapterID></ChapterID>
+                    <OffsetInChapter>-1</OffsetInChapter>
+                    <ChapterIndex>0</ChapterIndex>
+                    <ParaIndex>0</ParaIndex>
+                    <AtomIndex>0</AtomIndex>
+                </BeginPos>
+                <EndPos>
+                    <ChapterID></ChapterID>
+                    <OffsetInChapter>-1</OffsetInChapter>
+                    <ChapterIndex>1</ChapterIndex>
+                    <ParaIndex>0</ParaIndex>
+                    <AtomIndex>0</AtomIndex>
+                </EndPos>
+                <Uploaded>0</Uploaded>
+                <Percent>12</Percent>
+                <ComicsFrameMode>0</ComicsFrameMode>
+            </Progress>
+        </ReadingData>
+        <SettingData>
+            <PDF_BoldLevel>0</PDF_BoldLevel>
+            <PDF_bNormalCutting>0</PDF_bNormalCutting>
+            <PDF_dBottomEdge>0.000000</PDF_dBottomEdge>
+            <PDF_dHeight>0.000000</PDF_dHeight>
+            <PDF_dLeftEdge>0.000000</PDF_dLeftEdge>
+            <PDF_dRightEdge>0.000000</PDF_dRightEdge>
+            <PDF_dTopEdge>0.000000</PDF_dTopEdge>
+            <PDF_dWidth>0.000000</PDF_dWidth>
+            <PDF_eCuttingEdgeMode>0</PDF_eCuttingEdgeMode>
+            <PDF_eReadingMode>0</PDF_eReadingMode>
+            <PDF_eTurnPageMode>0</PDF_eTurnPageMode>
+            <PDF_iRotation>0</PDF_iRotation>
+            <PDF_uCurPageStartPos>0</PDF_uCurPageStartPos>
+            <PDF_uCurSubPage>0</PDF_uCurSubPage>
+            <PDF_uSubPageOrder>0</PDF_uSubPageOrder>
+        </SettingData>
+    </FileItem>
+</DKXROOT>

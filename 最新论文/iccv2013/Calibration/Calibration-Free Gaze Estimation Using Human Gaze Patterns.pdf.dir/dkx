@@ -1,0 +1,62 @@
+<DKXROOT>
+    <FileItem SubFileRelativePath="/" FilePath="/mnt/us/DK_Documents/最新论文/iccv2013/Calibration/Calibration-Free Gaze Estimation Using Human Gaze Patterns.pdf">
+        <Version>DKX-1.0</Version>
+        <BookInfo>
+            <BookName>Calibration-Free Gaze Estimation Using Human Gaze Patterns.pdf</BookName>
+            <BookAbstract></BookAbstract>
+            <BookAuthor></BookAuthor>
+            <BookSource></BookSource>
+            <FilePath></FilePath>
+            <FileFormat>2</FileFormat>
+            <CreateTime>2014-10-19 15:06:20</CreateTime>
+            <AddOrder>2080</AddOrder>
+            <LastReadTime></LastReadTime>
+            <ReadingOrder>-1</ReadingOrder>
+            <FileSize>1101324</FileSize>
+            <Password></Password>
+            <BookTags />
+            <TxtTocs />
+            <TocExtracted>0</TocExtracted>
+            <BookRevision></BookRevision>
+            <ReadingDataSync>1</ReadingDataSync>
+            <Crash>0</Crash>
+            <BookID>v58gf319c090b8cc9c0d5b7882981f3g</BookID>
+        </BookInfo>
+        <ReadingData UserName="264291391">
+            <Modified>0</Modified>
+            <DataVersion>0</DataVersion>
+            <LastUpdateTime>0</LastUpdateTime>
+            <Progress>
+                <Type>BOOKMARK</Type>
+                <KernelVersion>3.0.0.34310ef</KernelVersion>
+                <Color></Color>
+                <Tag></Tag>
+                <DataId></DataId>
+                <CreateTime></CreateTime>
+                <LastModifyTime></LastModifyTime>
+                <Creator></Creator>
+                <BookContent></BookContent>
+                <UserContent></UserContent>
+                <ChapterTitle></ChapterTitle>
+                <BeginPos>
+                    <ChapterID></ChapterID>
+                    <OffsetInChapter>-1</OffsetInChapter>
+                    <ChapterIndex>0</ChapterIndex>
+                    <ParaIndex>0</ParaIndex>
+                    <AtomIndex>0</AtomIndex>
+                </BeginPos>
+                <EndPos>
+                    <ChapterID></ChapterID>
+                    <OffsetInChapter>-1</OffsetInChapter>
+                    <ChapterIndex>0</ChapterIndex>
+                    <ParaIndex>0</ParaIndex>
+                    <AtomIndex>0</AtomIndex>
+                </EndPos>
+                <Uploaded>0</Uploaded>
+                <Percent>-1</Percent>
+                <ComicsFrameMode>0</ComicsFrameMode>
+            </Progress>
+        </ReadingData>
+        <SettingData />
+    </FileItem>
+</DKXROOT>
